@@ -1,0 +1,14 @@
+{
+  "name": "batch-now",
+  "version": "1.0.0",
+  "description": "バッチ用now",
+  "main": "index.js",
+  "author": "abalol <info@tomoporo.net>",
+  "license": "MIT",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
