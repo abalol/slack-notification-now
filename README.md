@@ -38,7 +38,7 @@ Now CLI 17.0.3
 ❗️  The `name` property in now.json is deprecated (https://zeit.ink/5F)
 🔗  Linked to info314/slack-notification (created .now)
 🔍  Inspect: https://zeit.co/info314/slack-notification/lgumopmt8 [3s]
-✅  Production: https://slack-notification.now.sh [copied to clipboard] [15s]
+✅  Production: https://xxxxxxxxxx.now.sh [copied to clipboard] [15s]
 📝  Deployed to production. Run `now --prod` to overwrite later (https://zeit.ink/2F).
 💡  To change the domain or build command, go to https://zeit.co/info314/slack-notification/settings
 ```
